@@ -7,7 +7,7 @@ run composer update
 set database on .env
 run php artisan serve
 
-#Login credential
+#Login credential 
 email: admin@admin.com
 pass: 12345678
 
