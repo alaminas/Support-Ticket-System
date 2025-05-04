@@ -1,13 +1,13 @@
 # Support-Ticket-System
 Support Ticket System
 
-#Installation Process
-Clone repo
-run composer update
-set database on .env
-run php artisan serve
+#Installation Process </br>
+Clone repo </br>
+run composer update</br>
+set database on .env</br>
+run php artisan serve</br>
 
-#Login credential 
-email: admin@admin.com
+#Login credential </br>
+email: admin@admin.com</br>
 pass: 12345678
 
